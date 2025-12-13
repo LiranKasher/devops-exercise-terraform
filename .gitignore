@@ -1,0 +1,38 @@
+# AWS local files
+.aws/
+
+
+# Build artifacts
+/bin/
+/obj/
+
+
+# Logs
+*.log
+
+
+# Node.js dependencies
+node_modules/
+
+
+# OS files
+.DS_Store
+Thumbs.db
+
+
+# Python cache
+__pycache__/
+*.pyc
+
+
+# Terraform
+.terraform/
+.terraform.lock.hcl #Comment if planning to use the cluster permanently
+*.tfstate
+*.tfstate.*
+*.tfvars
+*.tfvars.json
+crash.log
+crash.*.log
+
+
