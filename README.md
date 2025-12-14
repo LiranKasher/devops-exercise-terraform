@@ -1,4 +1,4 @@
-﻿# DevOps Exercise: Flask on EKS with CI/CD and Monitoring
+﻿# DevOps Exercise: Flask on EKS via Terraform with CI/CD and Monitoring
 
 A complete DevOps project featuring a simple interactive Flask application deployed to AWS EKS (Elastic Kubernetes Service) with full CI/CD automation via GitHub Actions, comprehensive monitoring with Prometheus/Grafana, and centralized logging through CloudWatch via Fluent Bit.
 
